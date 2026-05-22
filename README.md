@@ -1,6 +1,6 @@
 # Online Guest House Booking System
 
-This is the term project for the course CS29006: Software Engineering Laboratory under Prof. Sourangshu Bhattacharya and Prof. Abir Das.
+This is the term project 
 
 The website is an Online Guest House Booking System (OGHBS) developed to allow visitors to  IIT Kharagpur campus book a stay in the Guest Houses . The visitor can register himself
 / herself , choose dates of visit , select a room and choose food options from a variety of options available. It also provides payment facility , an option to cancel the 
@@ -51,6 +51,6 @@ python3 app.py
 The included [presentation](https://docs.google.com/presentation/d/1L4vQjprS5gTK5wKBfh6PIdkHpLyO9mQv8Hg3CPRgbp8/edit?usp=sharing) contains most of the details of the project: the aim, motivation and the technologies used. Please have a look at it for brief view.
 
 ## Made by:
-- 19CS10065 Vinit Raj
-- 19CS10067 Yashica Patodia
-- 19CS30043 Shrinivas Khiste
+- 22EC39046 Guru Priya
+- 22EC39041 Snigdha
+- 22EC39044 Midhun
